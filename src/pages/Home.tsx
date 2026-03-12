@@ -73,7 +73,7 @@ export const Home: React.FC = () => {
               >
                 <div className="aspect-[4/5] rounded-[2rem] overflow-hidden shadow-[0_32px_64px_-16px_rgba(0,0,0,0.5)] border-[12px] border-white/5 backdrop-blur-sm">
                   <img 
-                    src="src/public/images/yasir-hocam.png" 
+                    src="/images/yasir-hocam.png" 
                     alt={SITE_DATA.name}
                     className="w-full h-full object-cover grayscale-[20%] hover:grayscale-0 transition-all duration-700"
                     referrerPolicy="no-referrer"
