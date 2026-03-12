@@ -45,7 +45,7 @@ export const Navbar: React.FC = () => {
                 "w-10 h-10 rounded-xl flex items-center justify-center transition-all duration-300",
                 scrolled ? "bg-primary text-white" : "bg-white/20 backdrop-blur-sm text-white"
               )}>
-                <img className="p-2" src="src/public/images/logo.png" alt="Logo" />
+                <img className="p-2" src="https://res.cloudinary.com/dvx6nsrd9/image/upload/v1773341308/logo_ycwliy.png" alt="Logo" />
               </div>
               <span className={cn(
                 "text-xl font-serif font-bold transition-colors duration-300",

@@ -11,7 +11,7 @@ export const Footer: React.FC = () => {
           {/* Brand */}
           <div className="col-span-1 md:col-span-1">
             <Link to="/" className="flex items-center space-x-2 mb-6">
-              <img className="w-10" src="src/public/images/logo.png" alt="Logo" />
+              <img className="w-10" src="https://res.cloudinary.com/dvx6nsrd9/image/upload/v1773341308/logo_ycwliy.png" alt="Logo" />
               <span className="text-xl font-serif font-bold text-white">Yasir Alrawi</span>
             </Link>
             <p className="text-sm leading-relaxed mb-6">
